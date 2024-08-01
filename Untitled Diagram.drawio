@@ -4,25 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-1" value="1, 2, 3, 4" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-1" value="1, 2, 3, 4" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-2" value="5, 6, 7" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-2" value="5, 6, 7" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="560" y="160" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-3" value="SET 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-3" value="SET 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="118" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-4" value="SET 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-4" value="SET 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="610" y="108" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-5" value="CROSS JOIN or OUTER JOIN or JUST JOIN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-5" value="CROSS JOIN or OUTER JOIN or JUST JOIN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="310" y="78" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;All possible pair such that one element is&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;from set 1 and another from set 2&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;All possible pair such that one element is&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;from set 1 and another from set 2&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="270" y="300" width="450" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="360" as="sourcePoint" />
             <mxPoint x="480" y="400" as="targetPoint" />
@@ -31,19 +31,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;(1,5) (1,6) (1,7) (2,5) (2,6) (2,7) (3,5)&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;(3,6) (3,7) (4,5) (4,7)&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;(1,5) (1,6) (1,7) (2,5) (2,6) (2,7) (3,5)&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;(3,6) (3,7) (4,5) (4,7)&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="320" y="400" width="330" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-12" value="&lt;b&gt;SELECT film_id, title, description, release_year, name&amp;nbsp; from&amp;nbsp; film join language;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-12" value="&lt;b&gt;SELECT film_id, title, description, release_year, name&amp;nbsp; from&amp;nbsp; film join language;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="250" y="500" width="500" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-13" value="&lt;b&gt;SET 1&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-13" value="&lt;b&gt;SET 1&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="120" y="780" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-14" value="&lt;b&gt;SET 2&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-14" value="&lt;b&gt;SET 2&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="780" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="1000" as="sourcePoint" />
             <mxPoint x="294" y="921" as="targetPoint" />
@@ -52,14 +52,61 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-16" value="&lt;b&gt;Intersection of sets&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-16" value="&lt;b&gt;Intersection of sets&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="145" y="998" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-17" value="&lt;b&gt;INNER JOIN&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-17" value="&lt;b&gt;INNER JOIN&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="230" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NNbea1-5TAY8ZdpcjvAs-18" value="&lt;b&gt;SELECT film_id, title, description, release_year, name&amp;nbsp; from&amp;nbsp; film inner join language on film.language_id = language.language_id;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="NNbea1-5TAY8ZdpcjvAs-18" value="&lt;b&gt;SELECT film_id, title, description, release_year, name&amp;nbsp; from&amp;nbsp; film inner join language on film.language_id = language.language_id;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="340" y="1010" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1160" width="250" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-2" value="Employee" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-3" value="ID&lt;div&gt;Name&lt;/div&gt;&lt;div&gt;Manager_ID&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Px5MakIu8EscC2hbFgJ7-4" target="Px5MakIu8EscC2hbFgJ7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Px5MakIu8EscC2hbFgJ7-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-4" value="Carol" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1330" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Px5MakIu8EscC2hbFgJ7-5" target="Px5MakIu8EscC2hbFgJ7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-5" value="Bob" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1500" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Px5MakIu8EscC2hbFgJ7-9" target="Px5MakIu8EscC2hbFgJ7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-9" value="Alice" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-10" value="Dave" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-12" value="Eve" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1670" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-14" value="same table using primary key as a foreign key kind of&lt;div&gt;in this kind of case we are using something called self join&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="1153" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;SELECT table1.employee_id&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;FROM Employees AS table1&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;JOIN Employees AS table2 ON&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;table1.employee_Id =table2.manager_id&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1520" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Px5MakIu8EscC2hbFgJ7-16" value="SELF JOIN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
